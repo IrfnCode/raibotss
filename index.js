@@ -1,4 +1,4 @@
-console.log('Activeted Program Victoria Rosalind...')
+console.log('Activeted Program IrfnCode Multi Devices...')
 
 import yargs from 'yargs'
 import cfonts from 'cfonts'
