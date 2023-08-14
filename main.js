@@ -99,7 +99,7 @@ const connectionOptions = {
 	    version,
         printQRInTerminal: true,
         auth: state,
-        browser: ['Victoria', 'Safari', '3.0.0'], 
+        browser: ['IrfnCode', 'Safari', '3.0.0'], 
 	      patchMessageBeforeSending: (message) => {
                 const requiresPatch = !!(
                     message.buttonsMessage 
